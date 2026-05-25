@@ -17,7 +17,7 @@ import edge_tts
 # ============================================
 
 client = OpenAI(
-    api_key="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",
+    api_key="",
     base_url="https://api.groq.com/openai/v1"
 )
 
