@@ -1,6 +1,6 @@
-# Meck AI Assistant
+#MALLU AI Assistant
 
-Meck AI is a real-time AI voice assistant inspired by Jarvis, built using Python, Groq AI, Faster-Whisper, and Edge-TTS.
+Mallu jarvis is a real-time AI voice assistant inspired by Jarvis, built using Python, Groq AI, Faster-Whisper, and Edge-TTS.
 
 It supports:
 - Real-time voice interaction
